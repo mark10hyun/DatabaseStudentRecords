@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c475df66-9c8f-4874-a6de-b8e2ab9aa5ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="StudentDB" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="StudentDB" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="StudentDB" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJxmmIElZWwDonigVRYLw6wYkV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudentDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c475df66-9c8f-4874-a6de-b8e2ab9aa5ae" name="Default Changelist" comment="" />
+      <created>1584571159904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584571159904</updated>
+      <workItem from="1584571169928" duration="6900000" />
+      <workItem from="1584579206057" duration="21304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1680" y="15" key="#SQL_Dialects" timestamp="1584573372700">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state x="1680" y="15" key="#SQL_Dialects/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584573372700" />
+    <state x="1544" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584816619320">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1544" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593658914" />
+    <state x="1544" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584816619320" />
+    <state x="1710" y="136" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584579257895">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state x="344" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800/1280.-100.1600.900@0.0.1280.800" timestamp="1584571312124" />
+    <state x="1710" y="136" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584579257895" />
+    <state x="1674" y="52" key="CommitChangelistDialog2" timestamp="1584911066160">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1674" y="52" key="CommitChangelistDialog2/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911066160" />
+    <state x="1889" y="373" key="Github.CreateGistDialog" timestamp="1584911490844">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1889" y="373" key="Github.CreateGistDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911490844" />
+    <state width="779" height="482" key="GridCell.Tab.0.bottom" timestamp="1584910484625">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="482" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436268" />
+    <state width="779" height="482" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484625" />
+    <state width="1558" height="303" key="GridCell.Tab.0.bottom/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494538" />
+    <state width="1558" height="482" key="GridCell.Tab.0.bottom/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584816748238" />
+    <state width="779" height="482" key="GridCell.Tab.0.center" timestamp="1584910484623">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="482" key="GridCell.Tab.0.center/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436266" />
+    <state width="779" height="482" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484623" />
+    <state width="1558" height="303" key="GridCell.Tab.0.center/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494536" />
+    <state width="1558" height="482" key="GridCell.Tab.0.center/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584816748235" />
+    <state width="779" height="482" key="GridCell.Tab.0.left" timestamp="1584910484622">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="482" key="GridCell.Tab.0.left/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436265" />
+    <state width="779" height="482" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484622" />
+    <state width="1558" height="303" key="GridCell.Tab.0.left/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494535" />
+    <state width="1558" height="482" key="GridCell.Tab.0.left/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584816748234" />
+    <state width="779" height="482" key="GridCell.Tab.0.right" timestamp="1584910484624">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="482" key="GridCell.Tab.0.right/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436267" />
+    <state width="779" height="482" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484624" />
+    <state width="1558" height="303" key="GridCell.Tab.0.right/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494537" />
+    <state width="1558" height="482" key="GridCell.Tab.0.right/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584816748236" />
+    <state width="1558" height="303" key="GridCell.Tab.1.bottom" timestamp="1584593578152">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state width="1558" height="303" key="GridCell.Tab.1.bottom/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593578152" />
+    <state width="1558" height="303" key="GridCell.Tab.1.bottom/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593503856" />
+    <state width="1558" height="303" key="GridCell.Tab.1.center" timestamp="1584593578150">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state width="1558" height="303" key="GridCell.Tab.1.center/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593578150" />
+    <state width="1558" height="303" key="GridCell.Tab.1.center/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593503854" />
+    <state width="1558" height="303" key="GridCell.Tab.1.left" timestamp="1584593578149">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state width="1558" height="303" key="GridCell.Tab.1.left/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593578149" />
+    <state width="1558" height="303" key="GridCell.Tab.1.left/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593503853" />
+    <state width="1558" height="303" key="GridCell.Tab.1.right" timestamp="1584593578151">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state width="1558" height="303" key="GridCell.Tab.1.right/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593578151" />
+    <state width="1558" height="303" key="GridCell.Tab.1.right/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593503855" />
+    <state x="1589" y="89" key="SettingsEditor" timestamp="1584911582312">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1589" y="89" key="SettingsEditor/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911582312" />
+    <state x="1680" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584911009443">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1680" y="190" key="Vcs.Push.Dialog.v2/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911009443" />
+    <state x="1759" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1584579207118">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state x="1759" y="182" key="com.intellij.ide.util.TipDialog/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584579207117" />
+    <state x="1749" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584580334769">
+      <screen x="1280" y="-100" width="1600" height="900" />
+    </state>
+    <state x="1749" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584580334769" />
+    <state x="1864" y="321" key="git4idea.rebase.GitRebaseDialog" timestamp="1584911097856">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1864" y="321" key="git4idea.rebase.GitRebaseDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911097856" />
+    <state x="1842" y="351" key="git4idea.ui.GitResetDialog" timestamp="1584911135093">
+      <screen x="1280" y="0" width="1600" height="900" />
+    </state>
+    <state x="1842" y="351" key="git4idea.ui.GitResetDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911135093" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StudentDB$main.coverage" NAME="main Coverage Results" MODIFIED="1584910475226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/StudentDB$Student.coverage" NAME="main Coverage Results" MODIFIED="1584579015551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
