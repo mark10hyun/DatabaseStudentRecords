@@ -15,7 +15,7 @@ class searchBy:
             print("3) Group by GPA \n")
             print("\n")
             userInput = int(input("Please input your desired action: "))
-            #Groups by major
+            # Groups by major
             if userInput == 1:
                 userMaj = input("Input Major: ")
                 userMaj = userMaj.lower()
@@ -23,7 +23,7 @@ class searchBy:
                 items = c.fetchall()
                 for item in items:
                     print(item[:5])
-            #Groups by Faculty Advisor
+            # Groups by Faculty Advisor
             if userInput == 2:
                 userFA = input("Input Faculty Advisor: ")
                 userFA = userFA.lower()
@@ -31,7 +31,7 @@ class searchBy:
                 items = c.fetchall()
                 for item in items:
                     print(item[:5])
-            #Groups by GPA
+            # Groups by GPA
             if userInput == 3:
                 userG = float(input("Input GPA"))
                 c.execute("SELECT * FROM Student WHERE GPA = ? AND deleted = 1 ", (userG,))

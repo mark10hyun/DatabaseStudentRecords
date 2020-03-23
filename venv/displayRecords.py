@@ -12,10 +12,10 @@ class displayRecords:
         while userExit == 1:
             print("-------------------All Student Records--------------------- \n")
             c.execute("SELECT * FROM Student WHERE deleted = 1")
-            #Fetches all items that are not deleted.
+            # Fetches all items that are not deleted.
             items = c.fetchall()
             for item in items:
-                #prints everything but the deleted variable
+                # prints everything but the deleted variable
                 print(item[:5])
             conn2.commit()
             print("----------------------------------------------------------- \n")

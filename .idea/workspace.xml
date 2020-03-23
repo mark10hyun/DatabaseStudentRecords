@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c475df66-9c8f-4874-a6de-b8e2ab9aa5ae" name="Default Changelist" comment="added files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StudentDB.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StudentDB.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/createStudent.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/createStudent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/deleteStudent.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/deleteStudent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/displayRecords.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/displayRecords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/searchBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/searchBy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/updateStudent.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/updateStudent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +67,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -117,7 +114,7 @@
       <updated>1584571159904</updated>
       <workItem from="1584571169928" duration="6900000" />
       <workItem from="1584579206057" duration="22573000" />
-      <workItem from="1584918743530" duration="1254000" />
+      <workItem from="1584918743530" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1584912223114</created>
@@ -172,34 +169,38 @@
       <screen x="1280" y="0" width="1600" height="900" />
     </state>
     <state x="1889" y="373" key="Github.CreateGistDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911490844" />
-    <state width="1398" height="481" key="GridCell.Tab.0.bottom" timestamp="1584919068298">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="17" key="GridCell.Tab.0.bottom" timestamp="1584937595969">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1558" height="482" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436268" />
+    <state width="1238" height="17" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1600.900@0.0.1280.800" timestamp="1584937595969" />
     <state width="779" height="482" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484625" />
     <state width="1398" height="481" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584919068298" />
     <state width="1558" height="303" key="GridCell.Tab.0.bottom/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494538" />
     <state width="1558" height="303" key="GridCell.Tab.0.bottom/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584912877443" />
-    <state width="1398" height="481" key="GridCell.Tab.0.center" timestamp="1584919068296">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="17" key="GridCell.Tab.0.center" timestamp="1584937595967">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1558" height="482" key="GridCell.Tab.0.center/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436266" />
+    <state width="1238" height="17" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1600.900@0.0.1280.800" timestamp="1584937595967" />
     <state width="779" height="482" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484623" />
     <state width="1398" height="481" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584919068296" />
     <state width="1558" height="303" key="GridCell.Tab.0.center/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494536" />
     <state width="1558" height="303" key="GridCell.Tab.0.center/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584912877441" />
-    <state width="1398" height="481" key="GridCell.Tab.0.left" timestamp="1584919068295">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="17" key="GridCell.Tab.0.left" timestamp="1584937595965">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1558" height="482" key="GridCell.Tab.0.left/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436265" />
+    <state width="1238" height="17" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1600.900@0.0.1280.800" timestamp="1584937595965" />
     <state width="779" height="482" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484622" />
     <state width="1398" height="481" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584919068295" />
     <state width="1558" height="303" key="GridCell.Tab.0.left/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494535" />
     <state width="1558" height="303" key="GridCell.Tab.0.left/0.22.1280.778/1280.0.1600.900@1280.0.1600.900" timestamp="1584912877440" />
-    <state width="1398" height="481" key="GridCell.Tab.0.right" timestamp="1584919068297">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="17" key="GridCell.Tab.0.right" timestamp="1584937595968">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1558" height="482" key="GridCell.Tab.0.right/0.0.1280.800/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584652436267" />
+    <state width="1238" height="17" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1600.900@0.0.1280.800" timestamp="1584937595968" />
     <state width="779" height="482" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584910484624" />
     <state width="1398" height="481" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584919068297" />
     <state width="1558" height="303" key="GridCell.Tab.0.right/0.22.1280.778/1280.-100.1600.900@1280.-100.1600.900" timestamp="1584593494537" />
@@ -260,9 +261,13 @@
       <screen x="1280" y="0" width="1600" height="900" />
     </state>
     <state x="1842" y="351" key="git4idea.ui.GitResetDialog/0.0.1280.800/1280.0.1600.900@1280.0.1600.900" timestamp="1584911135093" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1584937269443">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/1280.0.1600.900@0.0.1280.800" timestamp="1584937269443" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/StudentDB$main.coverage" NAME="main Coverage Results" MODIFIED="1584918894671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/StudentDB$main.coverage" NAME="main Coverage Results" MODIFIED="1584937499087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/StudentDB$Student.coverage" NAME="main Coverage Results" MODIFIED="1584579015551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
 </project>
