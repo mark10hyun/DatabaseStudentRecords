@@ -5,10 +5,12 @@ class createStudent:
 
     @staticmethod
     def newS():
+        #Connects to the Student Database
         conn = sqlite3.connect('StudentDB.sqlite')
         # cursor is something that performs an action
         c = conn.cursor()
         userExit = 1
+        #User can create as many students as they please
         while userExit == 1:
             inputID = int(input("Enter Student Id: "))
             inputFirstName = input("Enter Student First Name: ")
@@ -21,7 +23,8 @@ class createStudent:
             inputFacAdvisor = input("Enter Faculty Advisor: ")
             inputFacAdvisor = inputFacAdvisor.lower()
             isDeleted = 1
-            # Insert a row of data, inline
+            # Insert a new row of data, inline to table
+            #delete set to 1 for soft delete
             c.execute("""
                INSERT INTO Student(StudentId, FirstName, LastName, GPA, Major, FacultyAdvisor, deleted)
                VALUES (?, ?, ?, ?, ?, ?,?)""",
@@ -31,9 +34,4 @@ class createStudent:
             StudentId = c.lastrowid
             print("Record created", StudentId)
             userExit = int(input("Do you want to add another student? Press 1 for yes OR 0 for no."))
-        conn.close()
-            # update example
-            # c.execute("UPDATE Student SET Major = ? WHERE StudentId=?", ('CS', 11,))
-            # conn.commit()
-            # StudentId = c.lastrowid
-            # print("record created", StudentId)
+        #Close data base

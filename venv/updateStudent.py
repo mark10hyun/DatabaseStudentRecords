@@ -14,12 +14,12 @@ class updateStudent:
             userInput = input("What would you like to up date? Major or Advisor? ")
             if userInput == "major":
                 majorUpdate = input("Enter new Major: ")
-                c.execute("UPDATE Student SET Major = ? WHERE StudentId=?", (majorUpdate, inputID,))
+                c.execute("UPDATE Student SET Major = ? WHERE StudentId=? AND deleted = 1", (majorUpdate, inputID,))
                 conn2.commit()
 
             if userInput == "advisor":
                 advisorUpdate = input("Enter new advisor: ")
-                c.execute("UPDATE Student SET Major = ? WHERE StudentId=?", (advisorUpdate, inputID,))
+                c.execute("UPDATE Student SET Major = ? WHERE StudentId=? AND deleted = 1", (advisorUpdate, inputID,))
                 conn2.commit()
             print("Updated")
             userExit = int(input("Do you want to update another student? Press 1 for yes OR 0 for no."))
